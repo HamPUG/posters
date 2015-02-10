@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="meeting-general.svg">
   <defs
      id="defs4">
@@ -213,13 +213,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-13.24676"
+     inkscape:cx="-30.74676"
      inkscape:cy="306.98517"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -391,10 +391,9 @@
          id="flowPara4233">We are starting a Python User Group right here in Hamilton.</flowPara><flowPara
          style="font-size:24px;text-align:justify;text-anchor:start"
          id="flowPara4237">We will be meeting regularly to discuss Python and to provide a resource for any and all who would like to learn more.</flowPara></flowRoot>    <g
-       id="g3107"
-       transform="translate(0,-20)">
+       id="g3099">
       <g
-         transform="matrix(1,0,0,1.0864865,-29.224243,-269.22051)"
+         transform="matrix(1,0,0,0.96756755,-29.224243,-182.04231)"
          id="g3898">
         <rect
            style="fill:#3196da;fill-opacity:1;stroke:none"
@@ -407,35 +406,35 @@
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         x="661.27576"
-         y="638.58679"
+         x="670.54822"
+         y="626.25916"
          id="text3172"
          sodipodi:linespacing="125%"><tspan
            id="tspan3106"
            sodipodi:role="line"
-           x="661.27576"
-           y="638.58679"
-           style="font-size:28px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">University</tspan><tspan
+           x="670.54822"
+           y="626.25916"
+           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">University</tspan><tspan
            id="tspan3105"
            sodipodi:role="line"
-           x="661.27576"
-           y="673.58679"
-           style="font-size:28px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">MS4.G.02</tspan><tspan
+           x="670.54822"
+           y="657.50916"
+           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">MS4.G.02</tspan><tspan
            id="tspan3097"
            sodipodi:role="line"
-           x="661.27576"
-           y="708.58679"
-           style="font-size:28px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">Every 2nd</tspan><tspan
+           x="670.54822"
+           y="688.75916"
+           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">Every month</tspan><tspan
            id="tspan3888"
            sodipodi:role="line"
-           x="661.27576"
-           y="743.58679"
-           style="font-size:28px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">Monday</tspan><tspan
+           x="670.54822"
+           y="720.00916"
+           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">2nd Monday</tspan><tspan
            id="tspan3103"
            sodipodi:role="line"
-           x="661.27576"
-           y="778.58679"
-           style="font-size:28px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">7pm</tspan></text>
+           x="670.54822"
+           y="751.25916"
+           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">7pm</tspan></text>
     </g>
     <image
        y="916.52057"
@@ -458,7 +457,7 @@
          id="flowPara4259"
          style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold">Interested in learning Python?</flowPara><flowPara
          id="flowPara4261"
-         style="font-size:10px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold"> </flowPara><flowPara
+         style="font-size:10px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold" /><flowPara
          id="flowPara4263"
          style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold">Want to learn how to become</flowPara><flowPara
          style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold"
