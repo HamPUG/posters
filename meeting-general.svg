@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="meeting-general.svg">
   <defs
      id="defs4">
@@ -213,13 +213,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="149.85153"
+     inkscape:cx="467.3059"
      inkscape:cy="403.12739"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1000"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -290,7 +290,7 @@
          inkscape:connector-curvature="0" />
       <path
          transform="matrix(0.73406,0,0,0.809524,16.24958,27.00935)"
-         d="m 110.46717,132.28575 c 0,4.75334 -21.914896,8.60668 -48.948287,8.60668 -27.033391,0 -48.948284,-3.85334 -48.948284,-8.60668 0,-4.75334 21.914893,-8.60668 48.948284,-8.60668 27.033391,0 48.948287,3.85334 48.948287,8.60668 z"
+         d="m 110.46717,132.28575 a 48.948284,8.6066771 0 0 1 -48.948287,8.60668 48.948284,8.6066771 0 0 1 -48.948284,-8.60668 48.948284,8.6066771 0 0 1 48.948284,-8.60668 48.948284,8.6066771 0 0 1 48.948287,8.60668 z"
          sodipodi:ry="8.6066771"
          sodipodi:rx="48.948284"
          sodipodi:cy="132.28575"
@@ -302,26 +302,29 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3182"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3184"><rect
            id="rect3186"
            width="594.28571"
            height="508.57144"
            x="65.714287"
            y="260.93362" /></flowRegion><flowPara
-         id="flowPara3188" /></flowRoot>    <text
+         id="flowPara3188"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="291.42856"
        y="512.36218"
-       id="text3190"
-       sodipodi:linespacing="125%"><tspan
+       id="text3190"><tspan
          sodipodi:role="line"
-         id="tspan3192" /></text>
+         id="tspan3192"
+         x="291.42856"
+         y="512.36218"
+         style="font-size:40px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3238"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:18px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3240"><rect
            id="rect3242"
            width="625.71429"
@@ -329,12 +332,13 @@
            x="57.142857"
            y="260.93362"
            style="font-size:18px" /></flowRegion><flowPara
-         id="flowPara3244" /></flowRoot>    <g
+         id="flowPara3244"
+         style="font-size:18px;line-height:1.25"> </flowPara></flowRoot>    <g
        id="g3338"
        transform="translate(4.202095,0)">
       <flowRoot
-         transform="translate(-5.5825882,0)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         transform="translate(-5.5825882)"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot3266"
          xml:space="preserve"><flowRegion
            id="flowRegion3268"><rect
@@ -343,42 +347,42 @@
              height="159.42856"
              width="641.71429"
              id="rect3270" /></flowRegion><flowPara
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25"
            id="flowPara3278"><flowSpan
              id="flowSpan3312"
-             style="font-size:36px;font-weight:normal;text-align:justify;text-anchor:start;-inkscape-font-specification:Bitstream Vera Sans">Python</flowSpan><flowSpan
+             style="font-weight:normal;font-size:36px;-inkscape-font-specification:'Bitstream Vera Sans';text-align:justify;text-anchor:start">Python</flowSpan><flowSpan
              id="flowSpan3318"
              style="font-size:24px;text-align:justify;text-anchor:start"> is a beautiful and versatile programming language. It is praised for clear and readable syntax.</flowSpan></flowPara><flowPara
-           style="font-size:28px;text-align:justify;text-anchor:start"
+           style="font-size:28px;line-height:1.25;text-align:justify;text-anchor:start"
            id="flowPara3062"><flowSpan
              style="font-size:24px"
              id="flowSpan3084">Python is a language that</flowSpan><flowSpan
              id="flowSpan3324"
-             style="font-size:30px;font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique"> gets out of your way</flowSpan><flowSpan
+             style="font-style:oblique;font-size:30px;-inkscape-font-specification:'Bitstream Vera Sans Oblique'"> gets out of your way</flowSpan><flowSpan
              style="font-size:30px"
              id="flowSpan3094">.</flowSpan></flowPara><flowPara
-           style="font-size:28px"
-           id="flowPara3280" /><flowPara
+           style="font-size:28px;line-height:1.25"
+           id="flowPara3280">         </flowPara><flowPara
            id="flowPara3304"
-           style="font-size:28px;font-weight:bold;line-height:101.99999809%;-inkscape-font-specification:Bitstream Vera Sans Bold" /><flowPara
+           style="font-weight:bold;font-size:28px;line-height:101.99999809%;-inkscape-font-specification:'Bitstream Vera Sans Bold'" /><flowPara
            id="flowPara3302"
-           style="font-size:28px;text-align:justify;text-anchor:start" /><flowPara
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;text-align:justify;text-anchor:start" /><flowPara
+           style="font-size:28px;line-height:1.25"
            id="flowPara3284" /><flowPara
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25"
            id="flowPara3286" /><flowPara
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25"
            id="flowPara3288" /><flowPara
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25"
            id="flowPara3290" /><flowPara
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25"
            id="flowPara3292" /><flowPara
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25"
            id="flowPara3294" /></flowRoot>    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3890"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(12.521851,-47.487516)"><flowRegion
          id="flowRegion3892"><rect
            id="rect3894"
@@ -387,9 +391,9 @@
            x="39"
            y="600.36218"
            style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
-         style="font-size:24px;text-align:justify;text-anchor:start"
+         style="font-size:24px;line-height:1.25;text-align:justify;text-anchor:start"
          id="flowPara4233">We are starting a Python User Group right here in Hamilton.</flowPara><flowPara
-         style="font-size:24px;text-align:justify;text-anchor:start"
+         style="font-size:24px;line-height:1.25;text-align:justify;text-anchor:start"
          id="flowPara4237">We will be meeting regularly to discuss Python and to provide a resource for any and all who would like to learn more.</flowPara></flowRoot>    <g
        id="g3099"
        transform="translate(0,-38)">
@@ -406,41 +410,40 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="670.54822"
          y="626.25916"
-         id="text3172"
-         sodipodi:linespacing="125%"><tspan
+         id="text3172"><tspan
            id="tspan3106"
            sodipodi:role="line"
            x="670.54822"
            y="626.25916"
-           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">University</tspan><tspan
+           style="font-size:25px;line-height:1.25;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">University</tspan><tspan
            id="tspan3105"
            sodipodi:role="line"
            x="670.54822"
            y="657.50916"
-           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">MS4.G.02</tspan><tspan
+           style="font-size:25px;line-height:1.25;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">MS4.G.02</tspan><tspan
            id="tspan3097"
            sodipodi:role="line"
            x="670.54822"
            y="688.75916"
-           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">Every month</tspan><tspan
+           style="font-size:25px;line-height:1.25;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">Every month</tspan><tspan
            id="tspan3888"
            sodipodi:role="line"
            x="670.54822"
            y="720.00916"
-           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">2nd Monday</tspan><tspan
+           style="font-size:25px;line-height:1.25;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">2nd Monday</tspan><tspan
            id="tspan3103"
            sodipodi:role="line"
            x="670.54822"
            y="751.25916"
-           style="font-size:25px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">7pm</tspan></text>
+           style="font-size:25px;line-height:1.25;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none">7pm</tspan></text>
     </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4253"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-58.579224,-13)"><flowRegion
          id="flowRegion4255"><rect
            id="rect4257"
@@ -449,42 +452,40 @@
            x="60"
            y="452.36218" /></flowRegion><flowPara
          id="flowPara4263"
-         style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold">Want to learn how to become</flowPara><flowPara
-         style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         style="font-weight:bold;font-size:34px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle">Want to learn how to become</flowPara><flowPara
+         style="font-weight:bold;font-size:34px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle"
          id="flowPara3083">a more productive programmer?</flowPara><flowPara
          id="flowPara4265"
-         style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold" /><flowPara
+         style="font-weight:bold;font-size:34px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle"> </flowPara><flowPara
          id="flowPara4267"
-         style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRoot>    <text
+         style="font-weight:bold;font-size:34px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle"> </flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="179.89099"
        y="818.36218"
-       id="text3084"
-       sodipodi:linespacing="125%"><tspan
+       id="text3084"><tspan
          sodipodi:role="line"
          id="tspan3086"
          x="179.89099"
          y="818.36218"
-         style="font-size:24px">http://www.meetup.com/nzpug-hamilton/</tspan></text>
+         style="font-size:24px;line-height:1.25">http://www.meetup.com/nzpug-hamilton/</tspan></text>
     <g
        id="g3581"
        transform="translate(-6.822644,0)">
       <text
-         sodipodi:linespacing="125%"
          id="text3076"
          y="958.38757"
          x="705.69836"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:32px;text-align:end;text-anchor:end"
+           style="font-size:24px;line-height:1.25;text-align:end;text-anchor:end;-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-family:'Bitstream Vera Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
            id="tspan3080"
            y="958.38757"
            x="705.69836"
-           sodipodi:role="line">CS Department</tspan><tspan
-           style="font-size:26px;text-align:end;text-anchor:end"
+           sodipodi:role="line">School of Computing and Mathematical Sciences</tspan><tspan
+           style="font-size:21.33333333px;line-height:1.25;text-align:end;text-anchor:end;-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-family:'Bitstream Vera Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
            id="tspan3084"
-           y="992.4071"
+           y="993.07898"
            x="705.69836"
            sodipodi:role="line">The University of Waikato</tspan></text>
       <g
@@ -492,16 +493,15 @@
          transform="translate(13.14137,-3.30004)">
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="91.778702"
            y="911.10022"
-           id="text3086"
-           sodipodi:linespacing="125%"><tspan
+           id="text3086"><tspan
              sodipodi:role="line"
              id="tspan3088"
              x="91.778702"
              y="911.10022"
-             style="font-size:20px;font-style:oblique;-inkscape-font-specification:Bitstream Vera Sans Oblique">Sponsored by</tspan></text>
+             style="font-style:oblique;font-size:20px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Oblique'">Sponsored by</tspan></text>
         <rect
            style="fill:#e7e7e7;fill-opacity:1;stroke:none"
            id="rect3106"
@@ -523,36 +523,13 @@
        y="756.86218"
        x="58.318726"
        id="image3578"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM0AAADNCAIAAACU3mM+AAAAA3NCSVQICAjb4U/gAAAEpklEQVR4
-nO3dy67bOBBF0XYj///LN3MNhBAsbsnJWlNHsnJ9QLDE1+fn5+c/OOz/px+Af4KcUZAzCnJGQc4o
-yBkFOaMgZxTkjIKcUZAzCnJGQc4oyBkFOaMgZxTkjIKcUZAzCr92Lv58PlPPce+yiOH+ewdXPCx9
-0eBTXW51f+1Tv8IS7RkFOaMgZxTkjMJWHXDxkg74YH98qae/dO3Sp0uyX2GJ9oyCnFGQMwpyRmGy
-DrjY6TUv2emtD3Z1d974n5P9Cve0ZxTkjIKcUZAzCgfrgKcsjRYMdt53xjCWZv5841av2jMKckZB
-zijIGYWvrAOWetw7ZcHgZJ6nRileQntGQc4oyBkFOaNwsA7IXlsvdc93Fvfu9OUHy5ElLxk80J5R
-kDMKckZBzihM1gFf8RZ78BX/4ODB4J/unb+C9oyCnFGQMwpyRuHzkvfFgwan6+z8cZ5agfxO2jMK
-ckZBzijIGYWvHA9Yepn+1Cv++zvfP+T9p1llM7g+WXtGQc4oyBkFOaPw2DrhbM3t0rXZnc8dY/CS
-Q8cutGcU5IyCnFGQMwov3S9osNd8f+elW2Ud8HNngT11MrP2jIKcUZAzCnJGYasOONcvPrdRz72n
-FgRkBwhnHf8L7RkFOaMgZxTkjMJb1gkPlgXnpsBnk5eW7NRM2a+vPaMgZxTkjIKcUdiqAwaX0e4Y
-nOozeLrATknxzurEOmHeTs4oyBkFOaMwWQdcnKswlh7j4qn/7+BD7hRYT40WaM8oyBkFOaMgZxS6
-eUFP9dYH38svOTce8NRS5x3aMwpyRkHOKMgZhW48YLBPnU2beWqn/iUvWTxxT3tGQc4oyBkFOaPw
-2Lygcz3ucwt0s679/feeGw9YutUS7RkFOaMgZxTkjMLWvqH3fcxzWwCdWxh879xknmwSkfMD+JvJ
-GQU5oyBnFB6bFzT46Y6nNtvJSpmnaqYL7RkFOaMgZxTkjMLkecL3/cSlT5/aqX/pewfLkZ2RlQvn
-B/DvkjMKckZBzihM1gEvmb6SrQ8YfKqnVlpkZzxozyjIGQU5oyBnFA6OByz1fHfKgmzfnp338udq
-iJ2hlGz+lfaMgpxRkDMKckbh4HnCO//4/tp72dZD58YhXrJMQR3Al5EzCnJGQc4oTI4HXAyOB1w8
-tQn+4Frfi8FxiCXZlCrtGQU5oyBnFOSMwuS+oUuf7tz5XAd86ZkH50EtyWY62S+ILyNnFOSMgpxR
-2KoDzr0+vnhqo9Cst34xuBBhh3lBfBk5oyBnFOSMQrdv6JJzx96eWw+xM7VpcE3DDucH8N3kjIKc
-UZAzCo+tD7g4t2PlzkKEnTsvXXtxbp3wub/GPe0ZBTmjIGcU5IzCwTrgJZ46v2xnXcK5sxbunSsL
-tGcU5IyCnFGQMwp/Qx1wbgvSl3zv4BlkS+eIWR/Al5EzCnJGQc4oHKwDzk31uTj3Bnxwc9PBPUd3
-VhE/RXtGQc4oyBkFOaMwWQe8c/ugwacanJBz7giEc7OVdmjPKMgZBTmjIGcUts4Thj+kPaMgZxTk
-jIKcUZAzCnJGQc4oyBkFOaMgZxTkjIKcUZAzCnJGQc4oyBkFOaMgZxTkjMJvf/TpzMK9ge4AAAAA
-SUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM0AAADNCAIAAACU3mM+AAAAA3NCSVQICAjb4U/gAAAEpklEQVR4 nO3dy67bOBBF0XYj///LN3MNhBAsbsnJWlNHsnJ9QLDE1+fn5+c/OOz/px+Af4KcUZAzCnJGQc4o yBkFOaMgZxTkjIKcUZAzCnJGQc4oyBkFOaMgZxTkjIKcUZAzCr92Lv58PlPPce+yiOH+ewdXPCx9 0eBTXW51f+1Tv8IS7RkFOaMgZxTkjMJWHXDxkg74YH98qae/dO3Sp0uyX2GJ9oyCnFGQMwpyRmGy DrjY6TUv2emtD3Z1d974n5P9Cve0ZxTkjIKcUZAzCgfrgKcsjRYMdt53xjCWZv5841av2jMKckZB zijIGYWvrAOWetw7ZcHgZJ6nRileQntGQc4oyBkFOaNwsA7IXlsvdc93Fvfu9OUHy5ElLxk80J5R kDMKckZBzihM1gFf8RZ78BX/4ODB4J/unb+C9oyCnFGQMwpyRuHzkvfFgwan6+z8cZ5agfxO2jMK ckZBzijIGYWvHA9Yepn+1Cv++zvfP+T9p1llM7g+WXtGQc4oyBkFOaPw2DrhbM3t0rXZnc8dY/CS Q8cutGcU5IyCnFGQMwov3S9osNd8f+elW2Ud8HNngT11MrP2jIKcUZAzCnJGYasOONcvPrdRz72n FgRkBwhnHf8L7RkFOaMgZxTkjMJb1gkPlgXnpsBnk5eW7NRM2a+vPaMgZxTkjIKcUdiqAwaX0e4Y nOozeLrATknxzurEOmHeTs4oyBkFOaMwWQdcnKswlh7j4qn/7+BD7hRYT40WaM8oyBkFOaMgZxS6 eUFP9dYH38svOTce8NRS5x3aMwpyRkHOKMgZhW48YLBPnU2beWqn/iUvWTxxT3tGQc4oyBkFOaPw 2Lygcz3ucwt0s679/feeGw9YutUS7RkFOaMgZxTkjMLWvqH3fcxzWwCdWxh879xknmwSkfMD+JvJ GQU5oyBnFB6bFzT46Y6nNtvJSpmnaqYL7RkFOaMgZxTkjMLkecL3/cSlT5/aqX/pewfLkZ2RlQvn B/DvkjMKckZBzihM1gEvmb6SrQ8YfKqnVlpkZzxozyjIGQU5oyBnFA6OByz1fHfKgmzfnp338udq iJ2hlGz+lfaMgpxRkDMKckbh4HnCO//4/tp72dZD58YhXrJMQR3Al5EzCnJGQc4oTI4HXAyOB1w8 tQn+4Frfi8FxiCXZlCrtGQU5oyBnFOSMwuS+oUuf7tz5XAd86ZkH50EtyWY62S+ILyNnFOSMgpxR 2KoDzr0+vnhqo9Cst34xuBBhh3lBfBk5oyBnFOSMQrdv6JJzx96eWw+xM7VpcE3DDucH8N3kjIKc UZAzCo+tD7g4t2PlzkKEnTsvXXtxbp3wub/GPe0ZBTmjIGcU5IzCwTrgJZ46v2xnXcK5sxbunSsL tGcU5IyCnFGQMwp/Qx1wbgvSl3zv4BlkS+eIWR/Al5EzCnJGQc4oHKwDzk31uTj3Bnxwc9PBPUd3 VhE/RXtGQc4oyBkFOaMwWQe8c/ugwacanJBz7giEc7OVdmjPKMgZBTmjIGcUts4Thj+kPaMgZxTk jIKcUZAzCnJGQc4oyBkFOaMgZxTkjIKcUZAzCnJGQc4oyBkFOaMgZxTkjMJvf/TpzMK9ge4AAAAA SUVORK5CYII= "
        height="105"
        width="105" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4253-2"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-59.409302,-72.40522)"><flowRegion
          id="flowRegion4255-1"><rect
            id="rect4257-7"
@@ -561,19 +538,20 @@ SUVORK5CYII=
            x="60"
            y="452.36218" /></flowRegion><flowPara
          id="flowPara4259-7"
-         style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold">Interested in learning Python?</flowPara><flowPara
+         style="font-weight:bold;font-size:34px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle">Interested in learning Python?</flowPara><flowPara
          id="flowPara4265-7"
-         style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold" /><flowPara
+         style="font-weight:bold;font-size:34px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle"> </flowPara><flowPara
          id="flowPara4267-8"
-         style="font-size:34px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRoot>    <flowRoot
+         style="font-weight:bold;font-size:34px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;text-anchor:middle"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3633"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3635"><rect
            id="rect3637"
            width="569"
            height="84"
            x="-331"
            y="704.36218" /></flowRegion><flowPara
-         id="flowPara3639"></flowPara></flowRoot>  </g>
+         id="flowPara3639"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  </g>
 </svg>
